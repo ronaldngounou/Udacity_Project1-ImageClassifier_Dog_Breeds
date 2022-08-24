@@ -1,0 +1,18 @@
+Dear reviewer,
+
+Here below are the specific parts I would like to you pay attention while reviewing my project.
+
+1. In the lines 86 to 97 of the classify_images.py function, I would like to have more clarifications about the difference between the += operator line 97 and insert method which I usend in later in the lines 74-83 of the adjust_results4_isadog.py function.
+Might the append method produce the same result instead of using insert ? 
+
+2. In calculates_results_stats.py, line 100-101, I am not sure for the condition to count the number of correct breeds. 
+
+3. In the print_results.py, I am not sure for the line 104 and 105.
+
+4. I have uploaded the images in uploaded_images but I wasn't able to run run_models_batch_uploaded.sh because of an error that occured. For this reason, I wasn't able to correctly answer to the questions asked in check_images.py. However, I provided a summary to explain my results.
+
+I remain at your disposal for further explanations on my Slack: Ronald Ngounou.
+
+I thank you for your responses and good luck!
+
+Ronald Ngounou

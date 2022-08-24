@@ -1,0 +1,62 @@
+Argument 1: uploaded_images/
+Argument 2: vgg
+Argument 3: dognames.txt
+Command Line Arguments:
+     dir = uploaded_images/ 
+    arch = vgg 
+ dogfile = dognames.txt
+
+ Printing all key-value pairs in dictionary results_dic:
+Filename= Great_dane_05320.jpg    Pet Label= great dane
+Filename= Beagle_01125.jpg    Pet Label= beagle
+Filename= Collie_03797.jpg    Pet Label= collie
+Filename= Dalmatian_04068.jpg    Pet Label= dalmatian
+Filename= Miniature_schnauzer_06884.jpg    Pet Label= miniature schnauzer
+Filename= German_shepherd_dog_04890.jpg    Pet Label= german shepherd dog
+Filename= Basenji_00963.jpg    Pet Label= basenji
+Filename= cat_02.jpg    Pet Label= cat
+Filename= Golden_retriever_05223.jpg    Pet Label= golden retriever
+Filename= great_horned_owl_02.jpg    Pet Label= great horned owl
+Filename= Basset_hound_01034.jpg    Pet Label= basset hound
+Filename= Cocker_spaniel_03750.jpg    Pet Label= cocker spaniel
+Filename= Poodle_07927.jpg    Pet Label= poodle
+Filename= Beagle_01141.jpg    Pet Label= beagle
+Filename= Saint_bernard_08010.jpg    Pet Label= saint bernard
+Filename= Boxer_02426.jpg    Pet Label= boxer
+Filename= Great_pyrenees_05367.jpg    Pet Label= great pyrenees
+Filename= German_shorthaired_pointer_04986.jpg    Pet Label= german shorthaired pointer
+Filename= Dalmatian_04037.jpg    Pet Label= dalmatian
+Filename= fox_squirrel_01.jpg    Pet Label= fox squirrel
+Filename= polar_bear_04.jpg    Pet Label= polar bear
+Filename= Basenji_00974.jpg    Pet Label= basenji
+Filename= Saint_bernard_08036.jpg    Pet Label= saint bernard
+Filename= Beagle_01170.jpg    Pet Label= beagle
+Filename= gecko_02.jpg    Pet Label= gecko
+Filename= Boston_terrier_02285.jpg    Pet Label= boston terrier
+Filename= Golden_retriever_05195.jpg    Pet Label= golden retriever
+Filename= Golden_retriever_05182.jpg    Pet Label= golden retriever
+Filename= Dalmatian_04017.jpg    Pet Label= dalmatian
+Filename= Golden_retriever_05257.jpg    Pet Label= golden retriever
+Filename= Boston_terrier_02259.jpg    Pet Label= boston terrier
+Filename= gecko_80.jpg    Pet Label= gecko
+Filename= Poodle_07956.jpg    Pet Label= poodle
+Filename= Great_pyrenees_05435.jpg    Pet Label= great pyrenees
+Filename= cat_01.jpg    Pet Label= cat
+Filename= Boston_terrier_02303.jpg    Pet Label= boston terrier
+Filename= skunk_029.jpg    Pet Label= skunk
+Filename= cat_07.jpg    Pet Label= cat
+Filename= Rabbit_002.jpg    Pet Label= rabbit
+Filename= German_shepherd_dog_04931.jpg    Pet Label= german shepherd dog
+
+Pet Image Label Dictionary has 40 key-value pairs.
+Below are 10 of them:
+ 1 key:           Great_dane_05320.jpg  label:                 great dane
+ 2 key:               Beagle_01125.jpg  label:                     beagle
+ 3 key:               Collie_03797.jpg  label:                     collie
+ 4 key:            Dalmatian_04068.jpg  label:                  dalmatian
+ 5 key:  Miniature_schnauzer_06884.jpg  label:        miniature schnauzer
+ 6 key:  German_shepherd_dog_04890.jpg  label:        german shepherd dog
+ 7 key:              Basenji_00963.jpg  label:                    basenji
+ 8 key:                     cat_02.jpg  label:                        cat
+ 9 key:     Golden_retriever_05223.jpg  label:           golden retriever
+10 key:        great_horned_owl_02.jpg  label:           great horned owl

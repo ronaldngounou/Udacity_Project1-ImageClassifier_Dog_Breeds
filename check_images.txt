@@ -1,0 +1,40 @@
+--------------------------------------Summary of my results---------------------------------------
+
+			| % Not a Dog Correct | % Dogs Correct | % Breeds Correct | % Label Match
+________________________________________________________________________________________
+ResNet		|     33.33%		  |   87.097%      |      96.774%     |  75.0 % ________________________________________________________________________________________
+AlexNet		|     40.0% 		  |   80.0%        |      100.0%      |  75.0 % ________________________________________________________________________________________
+   VGG		|     30.0%	     	  |   93.33%       |      100.0%      |  75.0 % ________________________________________________________________________________________
+
+1. The first objective of this project was to classify images which pet images are of dogs and which pet images aren't of dogs.
+For this objective, the model VGG correctly classifies the images 93.3.% of the time. And then it is ResNet that correctly classifies the images that are dogs with 87.097% accuracy.
+Additionally, to identify images that are not dogs, the accuracy are under 50% in general. AlexNet has accuracy of 40%.
+
+2. The second objectif of this project was to classify the breeds of dogs, for the images that are dogs. 
+According to my results, AlexNet and VGG classifies the images with 100% accuracy.
+
+
+
+
+Questions regarding Uploaded Image Classification:
+
+1. Did the three model architectures classify the breed of dog in Dog_01.jpg to be the same breed? If not, report the differences in the classifications.
+
+Answer: I wasn't able to run sh   run_models_batch_uploaded.sh
+
+
+2. Did each of the three model architectures classify the breed of dog in Dog_01.jpg to be the same breed of dog as that model architecture classified Dog_02.jpg? If not, report the differences in the classifications.
+
+Answer: I wasn't able to run sh   run_models_batch_uploaded.sh
+
+
+3. Did the three model architectures correctly classify Animal_Name_01.jpg and Object_Name_01.jpg to not be dogs? If not, report the misclassifications.
+
+Answer: I wasn't able to run sh   run_models_batch_uploaded.sh
+
+
+4. Based upon your answers for questions 1. - 3. above, select the model architecture that you feel did the best at classifying the four uploaded images. Describe why you selected that model architecture as the best on uploaded image classification.
+
+Answer:
+
+-
