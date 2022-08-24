@@ -1,2 +1,6 @@
 # Udacity_Project1-ImageClassifier_Dog_Breeds
-Firstly, this project aims to identify pets images that are of dogs or not. Second, it aims to classify breeds of images that are dogs. Finally, it uses some pretrained models (ResNet, AlexNet,VGG) to dermine which architecture best classify those images.
+
+Principal Objectives
+1. Correctly identify which pet images are of dogs (even if the breed is misclassified) and which pet images aren't of dogs
+2. correctly classify the breeds of dogs, for the images that are of dogs. 
+3. Determine which CNN model architecture (ResNet, AlexNet,VGG) "best" achieve objectives 1 and 2.
